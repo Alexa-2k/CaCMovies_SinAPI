@@ -431,3 +431,9 @@ font-family: 'Montserrat' sans-serif;
   background-repeat: repeat;
   background-position: center;
 }
+
+.another-box {
+      background-color: transparent;;
+      animation-duration: 1s;
+      animation-delay: 0s;
+    }
