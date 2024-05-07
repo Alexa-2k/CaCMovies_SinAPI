@@ -425,7 +425,7 @@ padding: 0;
 font-family: 'Montserrat' sans-serif;
 }
 
-body{
+#register-body{
   background-image: url(../images/bg-register.jpg) ;
   background-size:auto;
   background-repeat: repeat;
@@ -433,5 +433,5 @@ body{
 }
 #registro {
  
- 
+
 }
