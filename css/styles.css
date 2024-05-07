@@ -240,7 +240,7 @@ z-index: -1;
   box-shadow: 0 0 10px #ffffff4d;
    }
 
-.buscadorPrincipal{
+.buscar{
    background-color: #181419;
    color:rgb(255, 255, 255);
    height: 50vh;
@@ -257,7 +257,7 @@ z-index: -1;
 
    }
 
-.buscadorPeliculas{
+.buscaPeli{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -281,7 +281,7 @@ width: 60%;
  display:inline-block;
  }
 
- .btnBuscador{
+ .btnBuscar{
 background-color:#9f3647;
 display: inline-block;
 color:#ffffff;
@@ -297,7 +297,7 @@ text-align: center;
  transition: transform 0.3s, box-shadow 0.3s;
  }
 
-.btnBuscador:hover {
+.btnBuscar:hover {
  background-color: #9f3647;
  transform: scale(0.95);
  box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
@@ -430,8 +430,4 @@ font-family: 'Montserrat' sans-serif;
   background-size:auto;
   background-repeat: repeat;
   background-position: center;
-}
-#registro {
- 
-
 }
