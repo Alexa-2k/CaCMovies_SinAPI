@@ -398,14 +398,15 @@ font-size: medium;
   padding: 0.5rem 2rem;
 }
 
-
+.peli{
+  margin-top: 3.5rem;
+}
 .aclamadas-main {
   width: 75%;
   flex-direction: row;
-  /*overflow: auto;*/
   display:flex;
-   overflow-x: auto;
-   min-height: 33rem;
+  overflow-x: auto;
+  min-height: 33rem;
 }
 
 .section-title{
